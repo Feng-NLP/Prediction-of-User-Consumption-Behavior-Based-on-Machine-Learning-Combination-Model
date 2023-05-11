@@ -1,19 +1,12 @@
 # Prediction-of-User-Consumption-Behavior-Based-on-Machine-Learning-Combination-Model
-2021年全国大学生数据统计与分析竞赛赛题B——基于机器学习组合模型的用户消费行为预测
+2021 National College Students Data Statistics and Analysis Competition B -- User Consumption behavior prediction based on machine learning combination model
 
-题目B：用户消费行为价值分析
-在互联网不断发展的今天，各领域公司都在拓展互联网获客渠道，为公司产品引入新鲜活跃的用户，
-提高用户购买产品的欲望，提升公司的品牌影响力。但如何判别高质量的用户和渠道，优化营销成本
-一直都是各公司的痛点；这需要对用户的行为数据进行分析，判别用户的价值，进而对用户制定专门
-的营销策略，实现小成本促销，达到提高用户转化率的目标。现有用户信息表(user_info.csv) ， 
-用户登录情况表(login_day.csv)，用户访问统计表(visit_info.csv)，用户下单表(result.csv)，
-利用数据对用户行为进行数据统计与分析，并判断用户是否会下单购买。
+Title B: Value Analysis of User Consumption Behavior In today's world of Internet development, companies in all fields are expanding Internet access channels, introducing fresh and active users to their products, increasing their desire to buy products, and enhancing their brand influence. However, how to identify high-quality users and channels and optimize marketing costs has been a pain point for companies; This requires the analysis of user behavior data, the identification of user value, and then the development of special marketing strategies for users, to achieve low cost promotion, to achieve the goal of improving user conversion rate. Existing user information table (user_info.csv), user login information table (login_day.csv), user access statistics table (visit_info.csv), and user order table (result.csv). Make statistics and analysis of user behaviors with data. And determine whether the user will place an order.
 
-任务1：获取数据并进行预处理，提高数据质量；
+Task 1: Obtain data and preprocess it to improve data quality;
 
-任务2：对用户的各城市分布情况、登录情况进行分析，并分别将结果进行多种形式的可视化展现；
+Task 2: Analyze the distribution and login of users in different cities, and visually display the results in various forms respectively;
 
-任务3：构建模型判断用户最终是否会下单购买或下单购买的概率，并将模型结果输出为csv 文件（
-参照结果输出样例sample_output.csv）。要求模型的效果达到85%以上；
+Task 3: Build a model to judge whether the user will finally place an order to purchase or the probability of placing an order to purchase, and output the model results into csv files (refer to the result output sample sample_output.csv). The model is required to achieve more than 85% of the effect;
 
-任务4：通过用户消费行为价值分析，给企业提出合理的建议。
+Task 4: Put forward reasonable suggestions to the enterprise through the value analysis of user consumption behavior.
